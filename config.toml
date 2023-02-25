@@ -1,6 +1,6 @@
 baseURL = 'https://prra.netlify.app/'
 languageCode = 'en-us'
-title = 'P.R.R.A.'
+title = 'PRRA'
 theme = 'paper'
 
 [params]
