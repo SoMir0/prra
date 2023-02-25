@@ -1,0 +1,9 @@
+baseURL = 'https://prra.netlify.app/'
+languageCode = 'en-us'
+title = 'PRRA'
+theme = 'paper'
+
+[params]
+  avatar = 'https://i.imgur.com/vANarmT.jpg'
+  name = 'Mirsen Kahrović'
+  bio = '26/2022'
