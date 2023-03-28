@@ -1,6 +1,6 @@
 ---
 title: "HTML Osnove"
-date: 2023-03-28T20:01:27+02:00
+date: 2023-03-24
 draft: false
 ---
 Predavala nam je Andrijana Gaborović.
