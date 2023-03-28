@@ -1,5 +1,5 @@
 ---
-title: "Kolokvijum"
+title: "Kolokvijum Visio"
 date: 2023-03-17
 draft: false
 ---
