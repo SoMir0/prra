@@ -17,14 +17,14 @@ Većina tagova zahteva i tag za zatvaranje koji se piše sa kosom crtom na poče
 
 Primer taga za dugme:
 
-`<button>Dugme</button>`
+```<button>Dugme</button>```
 
 # Obavezni tagovi
 
-Tagovi `html`, `head` i `body` su obavezni, takođe, da bi html dokument bio prepoznat kao html dokument, na početku dokumenta pišemo:
+Tagovi ```html```, ```head``` i ```body``` su obavezni, takođe, da bi html dokument bio prepoznat kao html dokument, na početku dokumenta pišemo:
 
-`<!DOCTYPE html>`
+```<!DOCTYPE html>```
 
 ## Head i body
 
-`head` tag se koristi za metapodatke, dok se srž sajta nalazi u `body` tagu.
+```head``` tag se koristi za metapodatke, dok se srž sajta nalazi u ```body``` tagu.
