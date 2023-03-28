@@ -23,7 +23,7 @@ Primer taga za dugme:
 
 Tagovi ```html```, ```head``` i ```body``` su obavezni, takođe, da bi html dokument bio prepoznat kao html dokument, na početku dokumenta pišemo:
 
-```<!DOCTYPE html>```
+> ```<!DOCTYPE html>```
 
 ## Head i body
 
