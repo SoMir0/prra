@@ -1,6 +1,6 @@
 ---
 title: "Vežba 3"
-date: 2023-04-5
+date: 2023-04-05
 draft: false
 ---
 Na današnjem predavanju obradjivali smo sveobuhvatnu vežbu vezanu za HTML i CSS.
